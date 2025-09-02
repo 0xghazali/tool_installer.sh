@@ -2,9 +2,6 @@
 
 `tool_installer.sh` ek **advanced portable installer script** hai jo Kali Linux (ya kisi bhi Debian-based system) par custom tools install karne ke liye banayi gayi hai.  
 
-Har step aur log message ke aage `0x:` prefix hota hai (trace ke liye).  
-Header aur footer me banner show hota hai: **0x TOOL INSTALLER**  
-
 ---
 
 ## ✨ Features
