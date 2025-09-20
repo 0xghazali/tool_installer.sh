@@ -36,3 +36,4 @@ The installer supports .deb, .tar.gz, .tgz, .zip, and standalone binaries/script
 
 An optional systemd service can be created to auto-start the installed tool at boot.
 
+Video: https://youtu.be/w4a1nXFKCV0
